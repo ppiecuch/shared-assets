@@ -205,12 +205,12 @@
 	17. ¿Cuál es el horario de limpieza? – Jakie są godziny sprzątania?
 [spanish/phrases/fun]
 	0 = Bawmy się :: A disfrutar!
-	1. Estoy disfrutando de mis vacaciones – Korzystam z wakacji
-	2. ¡Es muy bonito! – To bardzo ładne!
-	3. ¡Salud! – Na zdrowie
-	4. Me encanta la comida española – Uwielbiam hiszpańskie jedzenie
-	5. Es delicioso – Jest przepyszne
-	6. ¡Qué bueno! – Ale to dobre!
-	7. ¡Cuánta gente! – Ile ludzi!
-	8. Me alegro – Cieszę się
-	9. Las mejores vacaciones de mi vida – Najlepsze wakacje w moim życiu
+	1 = Estoy disfrutando de mis vacaciones :: Korzystam z wakacji
+	2 = ¡Es muy bonito! :: To bardzo ładne!
+	3 = ¡Salud! :: Na zdrowie
+	4 = Me encanta la comida española :: Uwielbiam hiszpańskie jedzenie
+	5 = Es delicioso :: Jest przepyszne
+	6 = ¡Qué bueno! :: Ale to dobre!
+	7 = ¡Cuánta gente! :: Ile ludzi!
+	8 = Me alegro :: Cieszę się
+	9 = Las mejores vacaciones de mi vida :: Najlepsze wakacje w moim życiu
