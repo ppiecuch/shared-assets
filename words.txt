@@ -160,19 +160,19 @@
 	8 = ¿Puedo pagar con tarjeta de crédito? :: Mogę zapłacić kartą?
 [spanish/phrases/inrestaurant]
 	0 = W restauracji :: En el resturante
-	1. Me gustaría reservar una mesa – Chciałbym zarezerwować stolik
-	2. ¿Tienen una mesa libre? – Czy mają Państwo wolny stolik?
-	3. ¿Cuál es la especialidad de la casa? – Jaka jest specjalność lokalu?
-	4. ¿Qué me recomienda? – Co mi Pan/Pani poleca?
-	5. Me gustaría una cerveza/vino/té – Chciałbym piwo/wino/herbatę
-	6. ¿Cuál es el plato típico de esta región? – Jaka jest typowa potrawa z tej okolicy?
-	7. Quiero una paella – Chcę paellę
-	8. Voy a tomar una tónica – Napiję się toniku
-	9. ¿Me puede traer un vaso de agua? – Czy może mi Pan/Pani przynieść szklankę wody?
-	10. ¿Qué hay de postre? – Jakie są desery?
-	11. La cuenta, por favor – Poproszę rachunek
-	12. Prefiero pagar en efectivo – Wolę zapłacić gotówką
-	13. ¿Dónde está el baño? – Gdzie jest toaleta?
+	1 = Me gustaría reservar una mesa :: Chciałbym zarezerwować stolik
+	2 = ¿Tienen una mesa libre? :: Czy mają Państwo wolny stolik?
+	3 = ¿Cuál es la especialidad de la casa? :: Jaka jest specjalność lokalu?
+	4 = ¿Qué me recomienda? :: Co mi Pan/Pani poleca?
+	5 = Me gustaría una cerveza/vino/té :: Chciałbym piwo/wino/herbatę
+	6 = ¿Cuál es el plato típico de esta región? :: Jaka jest typowa potrawa z tej okolicy?
+	7 = Quiero una paella :: Chcę paellę
+	8 = Voy a tomar una tónica :: Napiję się toniku
+	9 = ¿Me puede traer un vaso de agua? :: Czy może mi Pan/Pani przynieść szklankę wody?
+	10 = ¿Qué hay de postre? :: Jakie są desery?
+	11 = La cuenta, por favor :: Poproszę rachunek
+	12 = Prefiero pagar en efectivo :: Wolę zapłacić gotówką
+	13 = ¿Dónde está el baño? :: Gdzie jest toaleta?
 [spanish/phrases/onbeach]
 	0. Na plaży :: En la playa
 	1. La playa es hermosa – Plaża jest piękna
