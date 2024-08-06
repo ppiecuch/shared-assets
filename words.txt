@@ -147,17 +147,17 @@
 	18 = ¿Cuánto cuesta un billete de metro/autobús? :: Ile kosztuje bilet na metro/autobus?
 	19 = ¿Cuál es la atracción más popular aquí? :: Jaka jest najpopularniejsza atrakcja tutaj?
 	20 = ¿Dónde se celebran los espectáculos de flamenco? :: Gdzie odbywają się pokazy flamenco?
-	21  ¿Dónde está la oficina de información turística? :: Gdzie znajduje się biuro informacji turystycznej?
+	21 = ¿Dónde está la oficina de información turística? :: Gdzie znajduje się biuro informacji turystycznej?
 [spanish/phrases/inshop]
 	0 = W sklepie :: En la tienda
-	1. ¿Cuánto cuesta? – Ile kosztuje?
-	2. ¿Puedo probármelo? – Czy mogę to przymierzyć?
-	3. ¿Dónde están los probadores? – Gdzie są przymierzalnie?
-	4. ¿Tenéis otra talla? – Macie inny rozmiar?
-	5. Me lo llevo – Biorę to
-	6. ¿Tiene algún descuento? – Czy jest jakaś zniżka?
-	7. No tengo dinero en efectivo – Nie mam gotówki
-	8. ¿Puedo pagar con tarjeta de crédito? – Mogę zapłacić kartą?
+	1 = ¿Cuánto cuesta? :: Ile kosztuje?
+	2 = ¿Puedo probármelo? :: Czy mogę to przymierzyć?
+	3 = ¿Dónde están los probadores? :: Gdzie są przymierzalnie?
+	4 = ¿Tenéis otra talla? :: Macie inny rozmiar?
+	5 = Me lo llevo :: Biorę to
+	6 = ¿Tiene algún descuento? :: Czy jest jakaś zniżka?
+	7 = No tengo dinero en efectivo :: Nie mam gotówki
+	8 = ¿Puedo pagar con tarjeta de crédito? :: Mogę zapłacić kartą?
 [spanish/phrases/inrestaurant]
 	0 = W restauracji :: En el resturante
 	1. Me gustaría reservar una mesa – Chciałbym zarezerwować stolik
