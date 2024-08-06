@@ -126,28 +126,28 @@
 	22. Me llamo – Nazywam się
 	23. Estoy aquí de vacaciones – Jestem tutaj na wakacjach
 [spanish/phrases/onstreet]
-	0 = Na ulicy – En la calle
-	1. ¿Dónde está la cafetería? – Gdzie jest kawiarnia?
-	2. ¿Cómo voy a la estación de trenes? – Jak dojdę na dworzec?
-	3. Busco una tienda de recuerdos – Szukam sklepu z pamiątkami
-	4. Me he perdido – Zgubiłem się
-	5. ¿Me puedes ayudar? – Możesz mi pomóc?
-	6. Necesito encontrar un cajero automático – Potrzebuję znaleźć bankomat
-	7. ¿Dónde puedo encontrar un buen restaurante? – Gdzie mogę znaleźć dobrą restaurację?
-	8. ¿Qué hora es? – Która godzina?
-	9. ¿A qué hora sale el próximo autobús? – O której odjeżdża następny autobus?
-	10. ¿Cuánto cuesta un billete de ida y vuelta? – Ile kosztuje bilet tam i z powrotem?
-	11. ¿Puedes recomendarme un buen lugar para visitar? – Czy możesz polecić mi dobre miejsce do odwiedzenia?
-	12. ¿Puedo tomar una foto aquí? – Czy mogę tu zrobić zdjęcie?
-	13. ¿Cuándo abre/ cierra el museo? – Kiedy otwiera się/zamyka muzeum?
-	14. ¿Dónde puedo alquilar una bicicleta? – Gdzie mogę wynająć rower?
-	15. ¿Hay algún mercado cercano? – Czy jest jakiś targ w pobliżu?
-	16. ¿Cuál es la mejor manera de llegar al aeropuerto? – Jaki jest najlepszy sposób na dojazd na lotnisko?
-	17. ¿Dónde puedo comprar billetes para el transporte público? – Gdzie mogę kupić bilety na transport publiczny?
-	18. ¿Cuánto cuesta un billete de metro/autobús? – Ile kosztuje bilet na metro/autobus?
-	19. ¿Cuál es la atracción más popular aquí? – Jaka jest najpopularniejsza atrakcja tutaj?
-	20. ¿Dónde se celebran los espectáculos de flamenco? – Gdzie odbywają się pokazy flamenco?
-	21. ¿Dónde está la oficina de información turística? – Gdzie znajduje się biuro informacji turystycznej?
+	0 = Na ulicy :: En la calle
+	1 = ¿Dónde está la cafetería? :: Gdzie jest kawiarnia?
+	2 = ¿Cómo voy a la estación de trenes? :: Jak dojdę na dworzec?
+	3 = Busco una tienda de recuerdos :: Szukam sklepu z pamiątkami
+	4 = Me he perdido :: Zgubiłem się
+	5 = ¿Me puedes ayudar? :: Możesz mi pomóc?
+	6 = Necesito encontrar un cajero automático :: Potrzebuję znaleźć bankomat
+	7 = ¿Dónde puedo encontrar un buen restaurante? :: Gdzie mogę znaleźć dobrą restaurację?
+	8 = ¿Qué hora es? :: Która godzina?
+	9 = ¿A qué hora sale el próximo autobús? :: O której odjeżdża następny autobus?
+	10 = ¿Cuánto cuesta un billete de ida y vuelta? :: Ile kosztuje bilet tam i z powrotem?
+	11 = ¿Puedes recomendarme un buen lugar para visitar? :: Czy możesz polecić mi dobre miejsce do odwiedzenia?
+	12 = ¿Puedo tomar una foto aquí? :: Czy mogę tu zrobić zdjęcie?
+	13 = ¿Cuándo abre/ cierra el museo? :: Kiedy otwiera się/zamyka muzeum?
+	14 = ¿Dónde puedo alquilar una bicicleta? :: Gdzie mogę wynająć rower?
+	15 = ¿Hay algún mercado cercano? :: Czy jest jakiś targ w pobliżu?
+	16 = ¿Cuál es la mejor manera de llegar al aeropuerto? :: Jaki jest najlepszy sposób na dojazd na lotnisko?
+	17 = ¿Dónde puedo comprar billetes para el transporte público? :: Gdzie mogę kupić bilety na transport publiczny?
+	18 = ¿Cuánto cuesta un billete de metro/autobús? :: Ile kosztuje bilet na metro/autobus?
+	19 = ¿Cuál es la atracción más popular aquí? :: Jaka jest najpopularniejsza atrakcja tutaj?
+	20 = ¿Dónde se celebran los espectáculos de flamenco? :: Gdzie odbywają się pokazy flamenco?
+	21  ¿Dónde está la oficina de información turística? :: Gdzie znajduje się biuro informacji turystycznej?
 [spanish/phrases/inshop]
 	0 = W sklepie :: En la tienda
 	1. ¿Cuánto cuesta? – Ile kosztuje?
