@@ -102,29 +102,29 @@
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
-	1. ¡Hola!– Cześć!
-	2. Buenos días – Dzień dobry
-	3. Buenas tardes – Dobry wieczór
-	4. Buenas noches – Dobranoc
-	5. ¡Adiós! – Do widzenia!
-	6. Hasta la vista – Do zobaczenia
-	7. Hasta pronto – Do zobaczenia szybko
-	8. Hasta la próxima – Do następnego
-	9. Hasta mañana – Do jutra
-	10. ¿Cómo estás? = ¿Qué tal?  – Jak się masz?
-	11. Gracias – Dziękuję
-	12. Por favor – Proszę
-	13. ¡Perdón! – Przepraszam!
-	14. Lo siento – Przykro mi
-	15. De nada – Nie ma za co
-	16. Sí – Tak
-	17. No – Nie
-	18. No entiendo – Nie rozumiem
-	19. ¿Puedes repetir? – Czy możesz powtórzyć?
-	20. ¿Hablas inglés? – Mówisz po angielsku?
-	21. ¿Cómo te llamas? – Jak się nazywasz?
-	22. Me llamo – Nazywam się
-	23. Estoy aquí de vacaciones – Jestem tutaj na wakacjach
+	1 = ¡Hola! :: Cześć!
+	2 = Buenos días :: Dzień dobry
+	3 = Buenas tardes :: Dobry wieczór
+	4 = Buenas noches :: Dobranoc
+	5 = ¡Adiós! :: Do widzenia!
+	6 = Hasta la vista :: Do zobaczenia
+	7 = Hasta pronto :: Do zobaczenia szybko
+	8 = Hasta la próxima :: Do następnego
+	9 = Hasta mañana :: Do jutra
+	10 = ¿Cómo estás? (inf. ¿Qué tal?)  :: Jak się masz?
+	11 = Gracias :: Dziękuję
+	12 = Por favor :: Proszę
+	13 = ¡Perdón! :: Przepraszam!
+	14 = Lo siento :: Przykro mi
+	15 = De nada :: Nie ma za co
+	16 = Sí :: Tak
+	17 = No :: Nie
+	18 = No entiendo :: Nie rozumiem
+	19 = ¿Puedes repetir? :: Czy możesz powtórzyć?
+	20 = ¿Hablas inglés? :: Mówisz po angielsku?
+	21 = ¿Cómo te llamas? :: Jak się nazywasz?
+	22 = Me llamo :: Nazywam się
+	23 = Estoy aquí de vacaciones :: Jestem tutaj na wakacjach
 [spanish/phrases/onstreet]
 	0 = Na ulicy :: En la calle
 	1 = ¿Dónde está la cafetería? :: Gdzie jest kawiarnia?
