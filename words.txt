@@ -174,35 +174,35 @@
 	12 = Prefiero pagar en efectivo :: Wolę zapłacić gotówką
 	13 = ¿Dónde está el baño? :: Gdzie jest toaleta?
 [spanish/phrases/onbeach]
-	0. Na plaży :: En la playa
-	1. La playa es hermosa – Plaża jest piękna
-	2. ¿Dónde puedo alquilar una sombrilla? – Gdzie mogę wynająć parasolkę?
-	3. ¿Qué playas recomiendas? – Jakie plaże polecasz?
-	4. ¿Qué tiempo hará mañana? – Jaka będzie jutro pogoda?
-	5. ¿A qué hora sale el próximo barco? – O której odpływa następny statek?
-	6. ¿Dónde puedo alquilar equipo de buceo? – Gdzie mogę wynająć sprzęt do nurkowania?
-	7. ¿Qué actividades acuáticas ofrecen aquí? – Jakie aktywności wodne oferują tutaj?
-	8. ¿Se permite nadar en esta playa? – Czy można pływać na tej plaży?
-	9. ¿Hay un chiringuito por aquí?  – Czy jest tu w pobliżu jakaś restauracja?
+	0 = Na plaży :: En la playa
+	1 = La playa es hermosa – Plaża jest piękna
+	2 = ¿Dónde puedo alquilar una sombrilla? – Gdzie mogę wynająć parasolkę?
+	3 = ¿Qué playas recomiendas? – Jakie plaże polecasz?
+	4 = ¿Qué tiempo hará mañana? – Jaka będzie jutro pogoda?
+	5 = ¿A qué hora sale el próximo barco? – O której odpływa następny statek?
+	6 = ¿Dónde puedo alquilar equipo de buceo? – Gdzie mogę wynająć sprzęt do nurkowania?
+	7 = ¿Qué actividades acuáticas ofrecen aquí? – Jakie aktywności wodne oferują tutaj?
+	8 = ¿Se permite nadar en esta playa? – Czy można pływać na tej plaży?
+	9 = ¿Hay un chiringuito por aquí?  – Czy jest tu w pobliżu jakaś restauracja?
 [spanish/phrases/inhotel]
 	0 = W hotelu :: En el hotel
-	1. Quisiera una habitación individual/doble – Chciałbym pokój jednoosobowy/dwuosobowy
-	2. ¿Tienen Wi-Fi? – Czy jest dostępne Wi-Fi?
-	3. ¿Puedo tener más toallas? – Czy mogę dostać więcej ręczników?
-	4. ¿Dónde puedo comprar recuerdos? – Gdzie mogę kupić pamiątki?
-	5. Me gustaría reservar una excursión – Chciałbym zarezerwować wycieczkę
-	6. ¿Qué actividades hay para niños? – Jakie są atrakcje dla dzieci?
-	7. ¿Tienen servicios de guía turístico en español? – Czy oferują przewodników turystycznych w języku hiszpańskim?
-	8. ¿Puedo obtener un mapa de la ciudad? – Czy mogę dostać mapę miasta?
-	9. ¿Dónde puedo cambiar dinero? – Gdzie mogę wymienić pieniądze?
-	10. ¿Qué documentos necesito para el registro en el hotel? – Jakie dokumenty są potrzebne do zameldowania się w hotelu?
-	11. ¿Cuál es la contraseña del Wi-Fi? – Jakie jest hasło do Wi-Fi?
-	12. ¿Puedo dejar mi equipaje aquí por unas horas? – Czy mogę zostawić tu bagaż na kilka godzin?
-	13. ¿Dónde está la parada de taxis más cercana? – Gdzie znajduje się najbliższy postój taksówek?
-	14. El aire acondicionado no funciona – Klimatyzacja nie działa
-	15. ¿A qué hora empieza el desayuno? – O której zaczyna się śniadanie?
-	16. ¿Cuándo es la primera excursión? – Kiedy jest pierwsza wycieczka?
-	17. ¿Cuál es el horario de limpieza? – Jakie są godziny sprzątania?
+	1 = Quisiera una habitación individual/doble – Chciałbym pokój jednoosobowy/dwuosobowy
+	2 = ¿Tienen Wi-Fi? – Czy jest dostępne Wi-Fi?
+	3 = ¿Puedo tener más toallas? – Czy mogę dostać więcej ręczników?
+	4 = ¿Dónde puedo comprar recuerdos? – Gdzie mogę kupić pamiątki?
+	5 = Me gustaría reservar una excursión – Chciałbym zarezerwować wycieczkę
+	6 = ¿Qué actividades hay para niños? – Jakie są atrakcje dla dzieci?
+	7 = ¿Tienen servicios de guía turístico en español? – Czy oferują przewodników turystycznych w języku hiszpańskim?
+	8 = ¿Puedo obtener un mapa de la ciudad? – Czy mogę dostać mapę miasta?
+	9 = ¿Dónde puedo cambiar dinero? – Gdzie mogę wymienić pieniądze?
+	10 = ¿Qué documentos necesito para el registro en el hotel? – Jakie dokumenty są potrzebne do zameldowania się w hotelu?
+	11 = ¿Cuál es la contraseña del Wi-Fi? – Jakie jest hasło do Wi-Fi?
+	12 = ¿Puedo dejar mi equipaje aquí por unas horas? – Czy mogę zostawić tu bagaż na kilka godzin?
+	13 = ¿Dónde está la parada de taxis más cercana? – Gdzie znajduje się najbliższy postój taksówek?
+	14 = El aire acondicionado no funciona – Klimatyzacja nie działa
+	15 = ¿A qué hora empieza el desayuno? – O której zaczyna się śniadanie?
+	16 = ¿Cuándo es la primera excursión? – Kiedy jest pierwsza wycieczka?
+	17 = ¿Cuál es el horario de limpieza? – Jakie są godziny sprzątania?
 [spanish/phrases/fun]
 	0 = Bawmy się :: A disfrutar!
 	1 = Estoy disfrutando de mis vacaciones :: Korzystam z wakacji
