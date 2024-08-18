@@ -135,6 +135,7 @@
 	134 = ochenta y … :: 80/8…
 	135 = noventa y … :: 90/9…
 	136 = cien :: 100
+	136 = Claro :: Jasne/oczywiście
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
