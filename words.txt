@@ -136,6 +136,7 @@
 	135 = noventa y … :: 90/9…
 	136 = cien :: 100
 	136 = Claro :: Jasne/oczywiście
+	137 = Oh, bien, ahora está todo claro. :: Oh, teraz wszystko jest jasne.
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
