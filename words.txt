@@ -124,7 +124,7 @@
 	123 = ¿Qué estás haciendo? ::Co teraz robisz?
 	124 = SER (być) :: soy/eres/es somos/sois/son
 	125 = TENER (mieć) :: tengo/tieres/tiene tenemos/tenéis/tienen
-	126 = ESTAR (być) :: estory/estás/está estamos/estáis/están
+	126 = ESTAR (być) :: estoy/estás/está estamos/estáis/están
 	127 = IR (iść) :: voy/vas/va vamos/vais/van
 	128 = veinti … :: 20/2…
 	129 = treinta y … :: 30/3…
