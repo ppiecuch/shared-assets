@@ -138,6 +138,7 @@
 	136 = Claro :: Jasne/oczywiście
 	137 = Oh, bien, ahora está todo claro :: Oh, teraz wszystko jest jasne
 	138 = Claro que sí :: Tak, oczywiście
+	139 = Cuantas veces :: Ile razy …
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
