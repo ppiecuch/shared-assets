@@ -7,7 +7,7 @@
 	6 = ¿Cómo estás? :: Jak się masz?
 	7 = ¿Qué tal? :: Jak się masz?
 	8 = ¿Y tú? :: A ty?
-	9 = Aquí tienes :: Proszę
+	9 = Aquí tienes (tú) :: Proszę (tu masz)
 	10 = Gracias :: Dziękuję
 	11 = Muchas gracias :: Bardzo dziękuję
 	12 = Por favor :: Poproszę
@@ -106,7 +106,7 @@
 	105 = ¿Qué lenguas hablas? :: Jakimi językami mówisz/znasz?
 	106 = ¿Qué día es hoy? :: Jaki dzień jest dzisiaj?
 	107 = ¿Qué hora es? Son las… :: Która jest godzina?
-	108 = Aqui está :: Proszę (podając coś).
+	108 = Aqui está :: Proszę, oto jest (podając coś)
 	109 = Poco, poquito :: Trochę, troszeczkę.
 	110 = ¿Cuándo es tu cumpleaños? :: Kiedy się urodziłeś?
 	111 = cero/uno/dos/tres/cuatro/cinco :: 0/1/2/3/4/5
@@ -139,6 +139,7 @@
 	137 = Oh, bien, ahora está todo claro :: Oh, teraz wszystko jest jasne
 	138 = Claro que sí :: Tak, oczywiście
 	139 = Cuantas veces :: Ile razy …
+	140 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
