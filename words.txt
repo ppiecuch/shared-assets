@@ -135,11 +135,12 @@
 	134 = ochenta y … :: 80/8…
 	135 = noventa y … :: 90/9…
 	136 = cien :: 100
-	136 = Claro :: Jasne/oczywiście
-	137 = Oh, bien, ahora está todo claro :: Oh, teraz wszystko jest jasne
-	138 = Claro que sí :: Tak, oczywiście
-	139 = Cuantas veces :: Ile razy …
-	140 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
+	137 = Claro :: Jasne/oczywiście
+	138 = Oh, bien, ahora está todo claro :: Oh, teraz wszystko jest jasne
+	139 = Claro que sí :: Tak, oczywiście
+	140 = Cuantas veces :: Ile razy …
+	141 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
+	142 = Más o menos :: Mniej więcej
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
