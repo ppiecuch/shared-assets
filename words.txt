@@ -142,6 +142,7 @@
 	141 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
 	142 = Más o menos :: Mniej więcej
 	143 = Sin problema :: Nie ma sprawy
+	144 = ¿Diga? :: Słucham (tel.)?
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
