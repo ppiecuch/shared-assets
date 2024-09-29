@@ -143,6 +143,7 @@
 	142 = Más o menos :: Mniej więcej
 	143 = Sin problema :: Nie ma sprawy
 	144 = ¿Diga? :: Słucham (tel.)?
+	145 = asterisco/almohadilla :: */#
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
