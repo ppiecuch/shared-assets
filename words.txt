@@ -47,7 +47,7 @@
 	46 = Tengo una pregunta :: Mam pytanie
 	47 = ¿Te gusta? :: Podoba Ci się?
 	48 = Me gusta :: Podoba mi się
-	49 = Otra vez :: Jeszcze raz
+	49 = Otra vez :: Jeszcze raz/znowu
 	50 = Quiero un poco de… :: Chcę trochę…
 	51 = ¡Por supuesto! :: Oczywiście!
 	52 = ¡Que tengas un buen fin de semana! :: Dobrego weekendu!
