@@ -141,6 +141,7 @@
 	140 = Cuantas veces :: Ile razy …
 	141 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
 	142 = Más o menos :: Mniej więcej
+	143 = Sin problema :: Nie ma sprawy
 
 [spanish/phrases/basic]
 	0 = Podstawowe zwroty :: Las frases básicas
