@@ -137,7 +137,7 @@
 	136 = cien :: 100
 	137 = Claro :: Jasne/oczywiście
 	138 = Oh, bien, ahora está todo claro :: Oh, teraz wszystko jest jasne
-	139 = Claro que sí :: Tak, oczywiście
+	139 = ¡Claro que sí! :: Tak, oczywiście
 	140 = Cuantas veces :: Ile razy …
 	141 = Aquí tiene (usted) :: Proszę (uprzejmie, tu masz)
 	142 = Más o menos :: Mniej więcej
